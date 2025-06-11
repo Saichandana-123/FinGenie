@@ -19,8 +19,3 @@ FinGenie is an AI-powered chatbot designed to help users manage their finances b
 
 - Frontend: React.js (or specify your choice)  
 - Backend: Python Flask/FastAPI  
-- AWS Services:  
-  - Amazon Bedrock (Generative AI for chat responses)  
-  - Amazon SageMaker (for predictive financial models)  
-  - AWS Lambda (serverless backend functions)  
-  - AWS S3 (storage)  
