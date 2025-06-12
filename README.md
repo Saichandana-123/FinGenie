@@ -59,10 +59,5 @@ This project will be open-sourced under the MIT License once released.
 
 ---
 
-## 🤝 Contributing
-
-We’re currently in the initial build phase. Contributions are welcome once the base version is deployed. Stay tuned!
-
----
 
 > “Ask. Track. Grow. With FinGenie.” 💼✨  
