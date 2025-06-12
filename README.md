@@ -1,7 +1,7 @@
 # FinGenie
 Your Personal AI Finance Advisor
 
-FinGenie is an AI-powered chatbot designed to help users manage their finances by providing personalized financial advice, expense tracking, and market insights using AWS generative AI services.
+FinGenie is an AI-powered chatbot designed to help users manage their finances by providing personalized financial advice, expense tracking, and market insights using generative AI services.
 
 ---
 
@@ -17,5 +17,5 @@ FinGenie is an AI-powered chatbot designed to help users manage their finances b
 
 ## Tech Stack
 
-- Frontend: React.js (or specify your choice)  
+- Frontend: React.js 
 - Backend: Python Flask/FastAPI  
